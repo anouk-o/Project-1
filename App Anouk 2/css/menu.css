@@ -1,0 +1,81 @@
+/*--- MENU SCHERM --*/
+body {
+    margin: 0;
+    padding: 0;
+    font-family: lato;
+}
+#wrapperMenu {
+    height: 736px;
+    width: 414px;
+    background-color:#d35757;
+}
+header nav img {
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding-top: 10px;
+    padding-bottom: 3px;
+}
+header nav {
+    background-color: #000;
+}
+article {
+    background-color: #fff;
+    width: 180px;
+    box-sizing: border-box;
+    margin-top: 15px;
+    height: 180px;
+}
+.blok1 {
+    float: left;
+    margin-left: 17px;
+}
+.blok2 {
+    float: right;
+    margin-right: 17px;
+}
+footer {
+    position: absolute;
+    margin-top: 616px;
+    background-color: #000;
+    width: 414px;
+    height: 45px;
+}
+footer img{
+    width: 7%;
+    padding-top: 7px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.profile {
+    width: 35%;
+    margin-left: 55px;
+    margin-top: 35px;
+}
+.parks {
+    width: 35%;
+    margin-left: 55px;
+    margin-top: 40px;
+}
+.nightlife {
+    width: 35%;
+    margin-left: 55px;
+    margin-top: 30px;
+}
+.study {
+    width: 50%;
+    margin-left: 45px;
+    margin-top: 45px;
+}
+.notes {
+    width: 40%;
+    margin-left: 50px;
+    margin-top: 40px;
+}
+.help {
+    width: 35%;
+    margin-left: 55px;
+    margin-top: 45px;
+}
